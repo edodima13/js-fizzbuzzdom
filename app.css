@@ -2,3 +2,21 @@ body{
     background-color: #083B4C;
     text-align: center;
 }
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.bkc-green{
+    background-color: green;
+}
+
+.bkc-red{
+    background-color: red;
+}
+.bkc-yellow{
+    background-color: yellow;
+}
